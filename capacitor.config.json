@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "calculatorReactDeber",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
